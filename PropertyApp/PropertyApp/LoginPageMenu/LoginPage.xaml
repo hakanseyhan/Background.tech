@@ -1,0 +1,66 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PropertyApp.LoginPageMenu.LoginPage"
+             Shell.NavBarIsVisible="False"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#1C375C">
+    <ContentPage.Content>
+        <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <ImageButton Source="bookmark.png" HorizontalOptions="End" Margin="0,10,55,0" BackgroundColor="Transparent" Clicked="Register_Clicked" HeightRequest="25" WidthRequest="25"></ImageButton>
+            <ImageButton Source="settings.png" HorizontalOptions="End" Margin="0,10,15,0" BackgroundColor="Transparent" Clicked="User_Settings" HeightRequest="23" WidthRequest="23"></ImageButton>
+            <Image  Grid.Row="1" Source="btlogoicon.png" Margin="0,-15,0,30" Aspect="AspectFit" HeightRequest="120" WidthRequest="120"></Image>
+            <Frame Grid.Row="2" Margin="0,0,0,-40" BorderColor="#1C375C" HasShadow="True"  CornerRadius="30" HeightRequest="700">
+                <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" RowSpacing="20" Padding="20,50,20,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Label Grid.Row="0"  Text="Tekrar Hoşgeldiniz!" FontSize="24" FontAttributes="Bold" TextColor="#1C375C" HorizontalOptions="CenterAndExpand"></Label>
+                    <Label Grid.Row="1" Margin="0,-15,0,0" Text="Hesaba giriş yap" TextColor="#1C375C"  HorizontalOptions="CenterAndExpand"></Label>
+
+                    <Frame Grid.Row="2" CornerRadius="10"  Padding="8,2,2,2" BackgroundColor="#f1f1f1">
+                        <StackLayout>
+                            <Entry x:Name="UserLoginEmail" Placeholder="E-Posta Adresiniz"  FontSize="16" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></Entry>
+                        </StackLayout>
+                    </Frame>
+                    <Frame Grid.Row="3" BackgroundColor="#f1f1f1" Padding="8,2,2,2" CornerRadius="10" >
+                        <StackLayout >
+                            <Entry x:Name="UserLoginPassword"  Placeholder="Şifreniz" IsPassword="True" FontSize="16" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></Entry>
+                        </StackLayout>
+                    </Frame>
+                    <Image Grid.Row="3" Source="eye.png" HeightRequest="15" WidthRequest="15" HorizontalOptions="End" Margin="0,0,10,0" VerticalOptions="Center" >
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="ShowPass" NumberOfTapsRequired="1" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Label Grid.Row="4" Margin="0,10,0,10" Text="Parolanızı mı unuttunuz!" FontAttributes="Bold" HorizontalOptions="CenterAndExpand"></Label>
+                    <Button Grid.Row="5" Clicked="loginbutton_Clicked" Text="Giriş Yap" BackgroundColor="#1C375C" TextColor="White" CornerRadius="20"></Button>
+                    <Label Grid.Row="6" Text="ya da" HorizontalOptions="CenterAndExpand"></Label>
+                    <StackLayout Grid.Row="7" Orientation="Horizontal" HorizontalOptions="CenterAndExpand" Spacing="30">
+                        <ImageButton Clicked="Social_Clicked" BackgroundColor="Transparent" Source="facebook.png" WidthRequest="40"
+                               HeightRequest="30" Aspect="AspectFit"></ImageButton>
+                        <ImageButton Clicked="Social_Clicked" BackgroundColor="Transparent" Source="google.png" WidthRequest="30"
+                               HeightRequest="30" Aspect="AspectFit"></ImageButton>
+                    </StackLayout>
+                    <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" Margin="0,10,0,0" Grid.Row="8">
+                        <Label Text="Hesabınız yok mu?" HorizontalOptions="Center"></Label>
+                        <Label x:Name="lblClick" Text="Kayıt Ol" TextColor="#1C375C" HorizontalOptions="Center"></Label>
+                    </StackLayout>
+                    
+                </Grid>
+            </Frame>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PropertyApp.LoginPageMenu.ProfileView"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#e2e3e5">
+    <StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <ImageButton BackgroundColor="Transparent" Source="arrowBlack.png" Margin="20,20,0,0" Clicked="GoBacked" HeightRequest="25" WidthRequest="25" HorizontalOptions="Start" VerticalOptions="Start"></ImageButton>
+            <Label HorizontalTextAlignment="Center" Text="Kullanıcı Bilgileri" Margin="10,18,0,0" TextColor="#000" HorizontalOptions="Start" VerticalOptions="Start" FontSize="20"/>
+        </StackLayout>
+        
+        <StackLayout VerticalOptions="Center">
+            <StackLayout Padding="0" Margin="0,30,0,20">
+                <Frame CornerRadius="65" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" Padding="0" Margin="0">
+                    <Image BackgroundColor="#fff" x:Name="ImageView"  Source="user.png" Aspect="AspectFill" HeightRequest="130" WidthRequest="130" ></Image>
+                </Frame>
+                <Label x:Name="MyUserName" HorizontalOptions="Center" Margin="0,7" TextColor="black" FontSize="20"></Label>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
+                <Button HeightRequest="12" Text="Fotoğrafı Değiştir" x:Name="btnSelectPict" Clicked="SelectfromGallery" BackgroundColor="#1C375C" TextColor="#fff" CornerRadius="10" FontSize="14"></Button>
+                <Button Text="Bilgileri Değiştir" BackgroundColor="#1C375C" TextColor="#fff" CornerRadius="10" FontSize="14"></Button>
+            </StackLayout>
+            <StackLayout Margin="20,20,20,0">
+                <Button x:Name="Logout" Clicked="Logout_Clicked" Text="Hesaptan Çık" BackgroundColor="#1C375C" TextColor="#fff" CornerRadius="10" FontSize="14" HorizontalOptions="Fill"></Button>
+            </StackLayout>
+            <StackLayout Margin="20,20" VerticalOptions="EndAndExpand">
+                <Button x:Name="btnUpload" Clicked="btnUpload_Clicked" Text="Uygula" BackgroundColor="#1C375C" TextColor="#fff" CornerRadius="10" FontSize="14" HorizontalOptions="Fill" ></Button>
+            </StackLayout>
+            
+        </StackLayout>
+        <Label FontSize="13" TextColor="black" Padding="0,0,0,20" Text="Background.tech | ©2023" HorizontalOptions="Center" VerticalOptions="EndAndExpand"></Label>
+    </StackLayout>
+</ContentPage>

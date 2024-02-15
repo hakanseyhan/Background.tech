@@ -1,0 +1,413 @@
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.iOS.exe
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.PancakeView.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.SharedTransitions.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.pdb
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_ProcessedImageAssetsPath.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedBundleResourcesPath.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedContentPath.items
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\optimized\
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.AssemblyReference.cache
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\XamlC.stamp
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CopyComplete
+C:\Users\hkn88\source\repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.exe
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.iOS.exe
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.PancakeView.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.SharedTransitions.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.pdb
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_ProcessedImageAssetsPath.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedBundleResourcesPath.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedContentPath.items
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\optimized\
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.AssemblyReference.cache
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CoreCompileInputs.cache
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CopyComplete
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.exe
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.iOS.exe
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.PancakeView.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.SharedTransitions.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_ProcessedImageAssetsPath.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedBundleResourcesPath.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedContentPath.items
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\optimized\
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.AssemblyReference.cache
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CopyComplete
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.exe
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.iOS.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.Sqlite.Touch.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.Sqlite.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLite-net.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.core.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Buffers.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Memory.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Net.Http.Extensions.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Net.Http.Primitives.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Newtonsoft.Json.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.Abstractions.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.Abstractions.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Media.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Media.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.IO.Compression.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Net.Http.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.iOS.exe
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.Abstractions.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.iOS.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.Sqlite.Touch.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.Sqlite.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Net.Http.Extensions.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Net.Http.Primitives.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Newtonsoft.Json.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.Abstractions.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.Abstractions.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLite-net.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.nativelibrary.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.core.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Buffers.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.IO.Compression.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Memory.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Net.Http.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Microsoft.WindowsAzure.Storage.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Media.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Media.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.PancakeView.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.SharedTransitions.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_ProcessedImageAssetsPath.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_ProcessedInterfaceDefinitionsPath.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedBundleResourcesPath.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedContentPath.items
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\optimized\
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.AssemblyReference.cache
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CoreCompileInputs.cache
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CopyComplete
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.exe
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.Abstractions.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.iOS.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Firebase.Auth.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.Sqlite.Touch.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.Sqlite.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Net.Http.Extensions.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Net.Http.Primitives.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Newtonsoft.Json.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.Abstractions.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.Abstractions.pdb
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.pdb
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLite-net.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.nativelibrary.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.core.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Buffers.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Data.SqlClient.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Memory.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Media.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Media.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.iOS.exe
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.Abstractions.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.iOS.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Firebase.Auth.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.Sqlite.Touch.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.Sqlite.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\FutureState.AppCore.Data.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Newtonsoft.Json.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.Abstractions.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.Abstractions.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Toast.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Media.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.Media.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Xamarin.Forms.PancakeView.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\Plugin.SharedTransitions.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\bin\iPhone\Release\PropertyApp.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\actool\_ProcessedImageAssetsPath.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\ibtool\_ProcessedInterfaceDefinitionsPath.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedBundleResourcesPath.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\_ProcessedContentPath.items
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\optimized\
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.AssemblyReference.cache
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CoreCompileInputs.cache
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.csproj.CopyComplete
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.iOS\obj\iPhone\Release\PropertyApp.iOS.exe

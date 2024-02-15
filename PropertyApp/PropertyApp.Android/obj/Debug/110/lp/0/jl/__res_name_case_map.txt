@@ -1,0 +1,12 @@
+layout/horizontal_viewpager.xml;layout/horizontal_viewpager.xml
+drawable/Down.png;drawable/down.png
+drawable/Next.png;drawable/next.png
+drawable/Prev.png;drawable/prev.png
+drawable/Up.png;drawable/up.png
+layout/vertical_viewpager.xml;layout/vertical_viewpager.xml
+drawable-hdpi/watermark.png;drawable-hdpi/watermark.png
+drawable-ldpi/watermark.png;drawable-ldpi/watermark.png
+drawable-mdpi/watermark.png;drawable-mdpi/watermark.png
+drawable-xhdpi/watermark.png;drawable-xhdpi/watermark.png
+drawable-xxhdpi/watermark.png;drawable-xxhdpi/watermark.png
+drawable-xxxhdpi/watermark.png;drawable-xxxhdpi/watermark.png

@@ -1,0 +1,125 @@
+@string/appbar_scrolling_view_behavior;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\fade_in.xml
+alpha;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\fade_out.xml
+alpha;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\enterfromleft.xml
+alpha;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\exittoleft.xml
+androidx.appcompat.widget.Toolbar;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\rootlayout.xml
+androidx.appcompat.widget.Toolbar;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\shellcontent.xml
+androidx.appcompat.widget.Toolbar;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\toolbar.xml
+androidx.appcompat.widget.Toolbar;obj\Debug\130\res\layout\toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\shellcontent.xml
+attr;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__attrs.xml
+attr;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\values\attrs.xml
+background;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+bitmap;obj\Debug\130\res\drawable\splash.xml
+bool;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+cache-path;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\69\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+CarouselView.FormsPlugin.Droid.HorizontalViewPager;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+CarouselView.FormsPlugin.Droid.VerticalViewPager;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+changeBounds;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\transition\navigation_transition.xml
+changeClipBounds;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\transition\navigation_transition.xml
+changeImageTransform;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\transition\navigation_transition.xml
+changeTransform;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\transition\navigation_transition.xml
+color;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__colors.xml
+color;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+color;obj\Debug\130\res\drawable\splash.xml
+color;obj\Debug\130\res\values\colors.xml
+com.google.android.material.appbar.AppBarLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\rootlayout.xml
+com.google.android.material.tabs.TabLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\tabbar.xml
+com.google.android.material.tabs.TabLayout;obj\Debug\130\res\layout\tabbar.xml
+Com.ViewPagerIndicator.CirclePageIndicator;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+Com.ViewPagerIndicator.CirclePageIndicator;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+crc642e1c7a98bdb5c44a.AutoFitTextureView;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\68\jl\res\layout\camerafragment.xml
+crc643f46942d9dd1fff9.ShellFlyoutLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\flyoutcontent.xml
+crc646c47a7af3a53b8ab.CirclePageIndicator;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+crc646c47a7af3a53b8ab.CirclePageIndicator;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+crc64720bb2db43a66fe9.FormsViewPager;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\rootlayout.xml
+crc64bd9b40afd0203ad3.HorizontalViewPager;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+crc64bd9b40afd0203ad3.VerticalViewPager;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+declare-styleable;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__attrs.xml
+declare-styleable;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\values\attrs.xml
+dimen;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+enum;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__attrs.xml
+external-cache-path;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\69\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\69\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\130\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\68\jl\res\layout\camerafragment.xml
+FrameLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\bottomtablayout.xml
+ImageView;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+ImageView;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+integer;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+item;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__styles.xml
+item;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\values\styles.xml
+item;obj\Debug\130\res\drawable\splash.xml
+item;obj\Debug\130\res\values\styles.xml
+layer-list;obj\Debug\130\res\drawable\splash.xml
+LinearLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+LinearLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+LinearLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\bottomtablayout.xml
+paths;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\69\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\horizontal_viewpager.xml
+RelativeLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\0\jl\res\layout\vertical_viewpager.xml
+resources;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\1\jl\res\values\strings.xml
+resources;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\strings.xml
+resources;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__attrs.xml
+resources;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__colors.xml
+resources;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__defaults.xml
+resources;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__styles.xml
+resources;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\values\attrs.xml
+resources;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\values\strings.xml
+resources;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\values\styles.xml
+resources;obj\Debug\130\res\values\colors.xml
+resources;obj\Debug\130\res\values\styles.xml
+scale;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\flip_in.xml
+scale;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\flip_out.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\enter_bottom.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\enter_left.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\enter_right.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\enter_top.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\exit_bottom.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\exit_left.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\exit_right.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\exit_top.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\fade_in.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\fade_out.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\flip_in.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\flip_out.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\enterfromleft.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\enterfromright.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\exittoleft.xml
+set;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\exittoright.xml
+string;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\1\jl\res\values\strings.xml
+string;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\strings.xml
+string;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\values\strings.xml
+style;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\2\jl\res\values\vpi__styles.xml
+style;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\values\styles.xml
+style;obj\Debug\130\res\values\styles.xml
+transitionSet;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\transition\navigation_transition.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\enter_bottom.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\enter_left.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\enter_right.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\enter_top.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\exit_bottom.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\exit_left.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\exit_right.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\exit_top.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\flip_in.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\5\jl\res\anim\flip_out.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\enterfromleft.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\enterfromright.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\exittoleft.xml
+translate;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\anim\exittoright.xml
+xamarin.communitytoolkit.ui.views.AutoFitTextureView;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\68\jl\res\layout\camerafragment.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp.Android\obj\Debug\130\lp\71\jl\res\layout\flyoutcontent.xml

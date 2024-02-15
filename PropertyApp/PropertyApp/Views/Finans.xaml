@@ -1,0 +1,202 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:st="clr-namespace:Plugin.SharedTransitions;assembly=Plugin.SharedTransitions"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:pv="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             st:SharedTransitionNavigationPage.TransitionSelectedGroup="products"
+             BackgroundColor="#f5f5f5"
+             mc:Ignorable="d" NavigationPage.HasNavigationBar="False"
+             x:Class="PropertyApp.Views.Finans"
+             Padding="10,0">
+
+    <ScrollView VerticalScrollBarVisibility="Never">
+    <Grid ColumnSpacing="10" RowSpacing="20">
+    
+        <Grid.RowDefinitions>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+            <StackLayout Margin="10,20" Orientation="Horizontal" Grid.ColumnSpan="2" >
+                <StackLayout HorizontalOptions="StartAndExpand">
+                    <Label Text="Finans" TextColor="#515151" FontFamily="ThemeFontBold" FontSize="20"></Label>
+                </StackLayout>
+                <StackLayout >
+                    <Label Padding="0,5,0,0" TextColor="Green"  Text="14:51"></Label>
+                </StackLayout>
+            </StackLayout>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="1" Grid.Column="0">
+                <StackLayout  Padding="5" Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+                    <StackLayout Padding="10" HorizontalOptions="Start">
+                        <Image HeightRequest="30" Source="euro.png"></Image>
+                    </StackLayout>
+                    <StackLayout  HorizontalOptions="Center" Padding="20,0,0,0">
+                        <Label Text="Euro" FontSize="20"></Label>
+                        <Label Text="₺31.88" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                        <Label Text="% 0.57" FontSize="15" TextColor="green"></Label>
+                    </StackLayout>
+                </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="1" Grid.Column="1">
+                <StackLayout  Padding="5" Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+                <StackLayout Padding="10" HorizontalOptions="Start">
+                     <Image HeightRequest="35" Source="dollar.png"></Image>
+                </StackLayout>
+                <StackLayout  HorizontalOptions="Center" Padding="20,0,0,0">
+                    <Label Text="Dolar" FontSize="20"></Label>
+                        <Label Text="₺29.13" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                    <Label Text="% 0,28" FontSize="15" TextColor="green"></Label>
+              </StackLayout>
+            </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="2" Grid.Column="0">
+                <StackLayout  Padding="5" Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+                <StackLayout Padding="10" HorizontalOptions="Start">
+                    <Image HeightRequest="35" Source="turkish.png"></Image>
+                </StackLayout>
+                <StackLayout  HorizontalOptions="Center" Padding="10,0,0,0">
+                    <Label Text="BİST" FontSize="20"></Label>
+                        <Label Text="7.650" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                    <Label Text="% -1,08" FontSize="15" TextColor="red"></Label>
+                </StackLayout>
+            </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="2" Grid.Column="1">
+                <StackLayout  Padding="5" Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+                <StackLayout Padding="10" HorizontalOptions="Start">
+                    <Image HeightRequest="30" Source="bitcoin.png"></Image>
+                </StackLayout>
+                <StackLayout  HorizontalOptions="Center" Padding="10,0,0,0">
+                    <Label Text="Bitcoin" FontSize="20"></Label>
+                        <Label Text="$26.736" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                    <Label Text="% -2,3" FontSize="15" TextColor="red"></Label>
+                </StackLayout>
+            </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="3" Grid.Column="0">
+                <StackLayout  Padding="5" Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+            <StackLayout Padding="10" HorizontalOptions="Start">
+                <Image HeightRequest="35" Source="gold.png"></Image>
+            </StackLayout>
+                <StackLayout  HorizontalOptions="Center" Padding="0,0,0,0">
+                <Label Text="Çeyrek A." FontSize="20"></Label>
+                        <Label Text="₺3.231" FontSize="20" Padding="10,0,0,0" TextColor="#000" FontAttributes="Bold"></Label>
+                <Label Text="% -0,09" FontSize="15" Padding="10,0,0,0" TextColor="red"></Label>
+            </StackLayout>
+             </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="3" Grid.Column="1">
+                <StackLayout  Padding="5" Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+            <StackLayout Padding="10" HorizontalOptions="Start">
+                <Image HeightRequest="35" Source="gold.png"></Image>
+            </StackLayout>
+                <StackLayout  HorizontalOptions="Center" Padding="10,0,0,0">
+                <Label Text="Gram A." FontSize="20"></Label>
+                        <Label Text="₺1.904" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                <Label Text="% -0,04" FontSize="15" TextColor="red"></Label>
+            </StackLayout>
+            </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="4" Grid.Column="0">
+                <StackLayout  Padding="5" Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+            <StackLayout Padding="10" HorizontalOptions="Start">
+                <Image HeightRequest="35" Source="gold.png"></Image>
+            </StackLayout>
+                <StackLayout  HorizontalOptions="Center" Padding="10,0,0,0">
+                <Label Text="Tam A." FontSize="20"></Label>
+                        <Label Text="₺11.396" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                <Label Text="% -0,09" FontSize="15" TextColor="red"></Label>
+            </StackLayout>
+          </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="4" Grid.Column="1">
+                <StackLayout  Padding="5" Orientation="Horizontal" BackgroundColor="#dcdcdc">
+            <StackLayout Padding="10" HorizontalOptions="Start">
+                <Image HeightRequest="35" Source="gold.png"></Image>
+            </StackLayout>
+                <StackLayout  HorizontalOptions="Center" Padding="10,0,0,0">
+                <Label Text="Ons A." FontSize="20"></Label>
+                        <Label Text="$1.874" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                <Label Text="% -0,09" FontSize="15" TextColor="red"></Label>
+            </StackLayout>
+             </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="5" Grid.Column="0">
+                <StackLayout  Padding="5" Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+            <StackLayout Padding="10" HorizontalOptions="Start">
+                <Image HeightRequest="35" Source="coins.png"></Image>
+            </StackLayout>
+                <StackLayout  HorizontalOptions="Center">
+                <Label Text="Ethereum" FontSize="20"></Label>
+                        <Label Text="$1.566" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                <Label Text="% -0,65" FontSize="15" TextColor="red"></Label>
+            </StackLayout>
+            </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="5" Grid.Column="1">
+                <StackLayout Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+                 <StackLayout Padding="20" HorizontalOptions="Start">
+                        <Image HeightRequest="30" Source="litecoin.png"></Image>
+                 </StackLayout>
+                 <StackLayout  HorizontalOptions="Center" Padding="0,0,10,0">
+                        <Label Text="Litecoin" FontSize="20"></Label>
+                        <Label Text="$61.33" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                        <Label Text="% -0,57" FontSize="15" TextColor="red"></Label>
+                </StackLayout>
+            </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="6" Grid.Column="0">
+                <StackLayout Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+                <StackLayout Padding="20" HorizontalOptions="Start">
+                    <Image HeightRequest="30" Source="bnb.png"></Image>
+                </StackLayout>
+                <StackLayout  HorizontalOptions="Center" Padding="0,0,10,0">
+                    <Label Text="BNB" FontSize="20"></Label>
+                        <Label Text="$206.30" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                    <Label Text="% 1,50" FontSize="15" TextColor="Green"></Label>
+                </StackLayout>
+            </StackLayout>
+            </Frame>
+
+            <Frame CornerRadius="15" Padding="0" Margin="0" Grid.Row="6" Grid.Column="1">
+                <StackLayout Orientation="Horizontal" BackgroundColor="#dcdcdc" >
+                <StackLayout Padding="20,20,10,20" HorizontalOptions="Start">
+                    <Image HeightRequest="30" Source="dogecoin.png"></Image>
+                </StackLayout>
+                <StackLayout  HorizontalOptions="Center" Padding="0,0,5,0">
+                    <Label Text="Dogecoin" FontSize="20"></Label>
+                        <Label Text="$0.058" FontSize="20" TextColor="#000" FontAttributes="Bold"></Label>
+                    <Label Text="% 0,78" FontSize="15" TextColor="Green"></Label>
+                </StackLayout>
+            </StackLayout>
+            </Frame>
+
+            <Label Text="- Ons Altın ve kripto paralar Amerikan Doları cinsidir." Grid.Row="7" HorizontalOptions="Start"  Grid.Column="0" Grid.ColumnSpan="2"></Label>
+            <Label Text="Background.tech | ©2023" Padding="5" HorizontalOptions="Center" VerticalOptions="Center" Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="2"></Label>
+    </Grid>
+
+ </ScrollView>
+
+</ContentPage>

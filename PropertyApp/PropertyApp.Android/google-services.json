@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "990118510866",
+    "project_id": "backgroundtech-5eb89",
+    "storage_bucket": "backgroundtech-5eb89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990118510866:android:38f3469bbd47e696aeb3cb",
+        "android_client_info": {
+          "package_name": "seyhansoftware.background.tech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990118510866-66jlj53ltf95aj0d7dbu4lsijjpq7t3j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "seyhansoftware.background.tech",
+            "certificate_hash": "d524cd9f1133cf8df227bcf22c97b87ad8756fa0"
+          }
+        },
+        {
+          "client_id": "990118510866-sl0qo808pg53s3immkjf3lg4e6bigd2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtq6kEKwTLgD0aakMSiNrtrYlJ4gQACHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990118510866-a66br4pl0hc2mnhhqju9egpp4dgmvacq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

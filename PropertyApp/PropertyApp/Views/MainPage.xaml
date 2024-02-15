@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:st="clr-namespace:Plugin.SharedTransitions;assembly=Plugin.SharedTransitions"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:pv="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             st:SharedTransitionNavigationPage.TransitionSelectedGroup="products"
+             mc:Ignorable="d" NavigationPage.HasNavigationBar="False"
+             x:Class="PropertyApp.Views.MainPage">
+    <Grid BackgroundColor="#F9F9F9" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Label Text="Background.tech" TextColor="#515151" FontSize="20" HorizontalOptions="Start" HorizontalTextAlignment="Center" FontFamily="ThemeFontBold"/>
+        <ImageButton Source="question.png" HeightRequest="20" WidthRequest="20 " Margin="0,0,45,0" Clicked="Questions_Clicked"  BackgroundColor="Transparent" HorizontalOptions="EndAndExpand"></ImageButton>
+        <ImageButton Source="usericons.png" Aspect="AspectFit" BackgroundColor="Transparent" Clicked="Login_Clicked" BorderColor="Black"  HorizontalOptions="End" CornerRadius="20" HeightRequest="32" WidthRequest="32"></ImageButton>
+        <StackLayout Grid.Row="1">
+            <Frame HasShadow="True" Margin="0,10" Padding="0" HeightRequest="40" HorizontalOptions="FillAndExpand">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+                    <Image HeightRequest="20" WidthRequest="20" Margin="20,0" Source="search.png"/>
+                    <Entry Grid.Column="1" Placeholder="Teknoloji Haberi Ara" TextColor="Black" FontSize="15" FontFamily="ThemeFontRegular" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+                    <ImageButton Grid.Column="2" BackgroundColor="Transparent" HeightRequest="20" WidthRequest="20" Margin="20,0" Source="filter.png"/>
+                </Grid>
+            </Frame>
+            <StackLayout HorizontalOptions="Center" Orientation="Horizontal" Grid.Row="2">
+                <Frame CornerRadius="20" Margin="0" Padding="14,8">
+                    <StackLayout>
+                        <Label x:Name="lbl_Currency" Text="Finans"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame CornerRadius="20" Margin="0" Padding="14,8">
+                    <StackLayout>
+                        <Label x:Name="lbl_WorldsPage" Text="Dünya"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame CornerRadius="20" Margin="0" Padding="14,8">
+                    <StackLayout>
+                        <Label x:Name="lbl_Sports" Text="Spor"></Label>
+                    </StackLayout>
+                </Frame>
+                <Frame  CornerRadius="20" Margin="0" Padding="14,8">
+                    <StackLayout>
+                        <Label x:Name="lbl_Topic" Text="Gündem"></Label>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </StackLayout>
+        <ScrollView  Grid.Row="3" VerticalScrollBarVisibility="Never">
+            <StackLayout BackgroundColor="Transparent" BindableLayout.ItemsSource="{Binding PropertyList}">
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate>
+                        <pv:PancakeView HeightRequest="190" Margin="5,10" CornerRadius="5" HasShadow="True" BackgroundColor="White">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="PropertySelected"/>
+                                </Grid.GestureRecognizers>
+                                <Image HeightRequest="115" Aspect="AspectFill" Source="{Binding urlToImage}" st:Transition.Name="PropertyImage"/>
+                                <ImageButton Source="bookmark.png" Clicked="Bookmark_Clicked" HorizontalOptions="End" Margin="12" BackgroundColor="Transparent" HeightRequest="20" VerticalOptions="Start"/>
+                                <Grid VerticalOptions="End" Margin="15">
+                                    <pv:PancakeView CornerRadius="13" Padding="15,5" BackgroundColor="Black" Opacity="0.5" 
+                                                    HorizontalOptions="Start" VerticalOptions="Start">
+                                        <StackLayout Orientation="Horizontal" Spacing="5" HorizontalOptions="Start">
+                                            <Label Text="{Binding Type}" FontSize="12" TextColor="White" FontFamily="ThemeFontRegular" VerticalOptions="Center"/>
+                                        </StackLayout>
+                                    </pv:PancakeView>
+                                </Grid>
+                                <StackLayout Grid.Row="1" Spacing="5" Margin="20,5">
+                                    <Label Text="{Binding description}" FontSize="16" FontFamily="ThemeFontBold" TextColor="#707070"/>
+                                </StackLayout>
+                            </Grid>
+                        </pv:PancakeView>
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            </StackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>

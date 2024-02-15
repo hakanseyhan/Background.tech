@@ -1,0 +1,150 @@
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.deps.json
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.dll
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.pdb
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.AssemblyReference.cache
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfoInputs.cache
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfo.cs
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.dll
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\refint\PropertyApp.dll
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.pdb
+C:\Users\hkn88\Source\Repos\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\ref\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.deps.json
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.AssemblyReference.cache
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfoInputs.cache
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfo.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\refint\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Animation-In-Xamarin-forms\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\ref\PropertyApp.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.deps.json
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.pdb
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.AssemblyReference.cache
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfoInputs.cache
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfo.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.CoreCompileInputs.cache
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\refint\PropertyApp.dll
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.pdb
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\ref\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.deps.json
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.AssemblyReference.cache
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfoInputs.cache
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfo.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\refint\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.pdb
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\ref\PropertyApp.dll
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Navigations\TabbedPageMenu.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\LoginPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\Sports.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\Finans.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\SignUpPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\ProfileView.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\LoginPage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\ProfileView.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\SignUpPage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\Finans.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\Sports.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\NewsAddPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\WorldsPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\TopicPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\TopicDetailsPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\WorldsDetailsPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\SportsDetailsPage.xaml.g.cs
+C:\Users\hkn88\OneDrive\Masaüstü\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\UploadPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.deps.json
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.AssemblyReference.cache
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\LoginPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\ProfileView.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\SignUpPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\Finans.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\NewsAddPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\Sports.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\SportsDetailsPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\TopicDetailsPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\TopicPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\WorldsDetailsPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\WorldsPage.xaml.g.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfoInputs.cache
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfo.cs
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.CoreCompileInputs.cache
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\refint\PropertyApp.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.pdb
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\ref\PropertyApp.dll
+C:\Users\hkn88\Desktop\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\HowtoMakePage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\HowtoMakePage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\NewsAddPage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\SportsDetailsPage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\TopicDetailsPage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\TopicPage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\WorldsDetailsPage.xaml.g.cs
+D:\Haber Uygulaması\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\WorldsPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.deps.json
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\bin\Debug\netstandard2.0\PropertyApp.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.AssemblyReference.cache
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\LoginPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\ProfileView.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\LoginPageMenu\SignUpPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\Finans.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\HowtoMakePage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\Sports.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\SportsDetailsPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\TopicDetailsPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\TopicPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\WorldsDetailsPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\WorldsPage.xaml.g.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfoInputs.cache
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.AssemblyInfo.cs
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.csproj.CoreCompileInputs.cache
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\refint\PropertyApp.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.pdb
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\ref\PropertyApp.dll
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\PropertyApp.sourcelink.json
+D:\Haber Uygulaması - Firebase\Background.tech\PropertyApp\PropertyApp\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs

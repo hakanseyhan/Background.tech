@@ -1,0 +1,213 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp.Android\\PropertyApp.Android.csproj": {}
+  },
+  "projects": {
+    "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp.Android\\PropertyApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp.Android\\PropertyApp.Android.csproj",
+        "projectName": "PropertyApp.Android",
+        "projectPath": "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp.Android\\PropertyApp.Android.csproj",
+        "packagesPath": "C:\\Users\\hkn88\\.nuget\\packages\\",
+        "outputPath": "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hkn88\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid13.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid13.0": {
+            "projectReferences": {
+              "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp\\PropertyApp.csproj": {
+                "projectPath": "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp\\PropertyApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid13.0": {
+          "dependencies": {
+            "CarouselView.FormsPlugin": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Plugin.Toast": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.AndroidX.Core": {
+              "target": "Package",
+              "version": "[1.12.0.3, )"
+            },
+            "Xamarin.CommunityToolkit": {
+              "target": "Package",
+              "version": "[2.0.6, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2622, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[1.3.7, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[118.2.0.5, )"
+            },
+            "Xamarin.GooglePlayServices.Basement": {
+              "target": "Package",
+              "version": "[118.2.0.5, )"
+            },
+            "Xamarin.GooglePlayServices.Tasks": {
+              "target": "Package",
+              "version": "[118.0.2.6, )"
+            },
+            "Xamarin.Plugin.SharedTransitions": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          }
+        }
+      }
+    },
+    "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp\\PropertyApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp\\PropertyApp.csproj",
+        "projectName": "PropertyApp",
+        "projectPath": "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp\\PropertyApp.csproj",
+        "packagesPath": "C:\\Users\\hkn88\\.nuget\\packages\\",
+        "outputPath": "D:\\Haber Uygulaması - Firebase\\Background.tech\\PropertyApp\\PropertyApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\hkn88\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "CarouselView.FormsPlugin": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "FirebaseAuthentication.net": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Plugin.Toast": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.8.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2622, )"
+            },
+            "Xamarin.Forms.PancakeView": {
+              "target": "Package",
+              "version": "[1.3.7, )"
+            },
+            "Xamarin.Plugin.SharedTransitions": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

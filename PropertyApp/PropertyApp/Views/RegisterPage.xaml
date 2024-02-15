@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PropertyApp.Views.RegisterPage">
+    <StackLayout>
+        <StackLayout Orientation="Horizontal" >
+            <ImageButton BackgroundColor="Transparent" Source="arrowBlack.png" Margin="20,20,0,0" Clicked="Backed_Clicked" HeightRequest="25" WidthRequest="25" HorizontalOptions="Start" VerticalOptions="Start"></ImageButton>
+            <Label HorizontalTextAlignment="Center" Text="Kaydedilenler" Margin="10,18,0,0" TextColor="#000" HorizontalOptions="Start" VerticalOptions="Start" FontSize="20"/>
+        </StackLayout>
+         <StackLayout  HorizontalOptions="CenterAndExpand"  VerticalOptions="CenterAndExpand">
+            <Image WidthRequest="250" HorizontalOptions="Center" VerticalOptions="Center" Source="techny.gif"></Image>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

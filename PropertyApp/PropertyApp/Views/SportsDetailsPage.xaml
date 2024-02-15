@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:pv="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:st="clr-namespace:Plugin.SharedTransitions;assembly=Plugin.SharedTransitions"
+             mc:Ignorable="d" NavigationPage.HasNavigationBar="False"
+             x:Class="PropertyApp.Views.SportsDetailsPage">
+
+    <Grid HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="url_ToImage" Aspect="AspectFill" Source="{Binding Property.urlToImage}" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" st:Transition.Name="PropertyImage"/>
+        <ImageButton BackgroundColor="Transparent" Aspect="Fill" Source="back.png" Margin="25" WidthRequest="20" HeightRequest="13" 
+                     HorizontalOptions="Start" VerticalOptions="Start" Clicked="goBack"/>
+        <pv:PancakeView x:Name="SportsDetailsView" Grid.Row="1" CornerRadius="30,30,0,0" Padding="35,35,35,0" Margin="0,-40,0,0" 
+                        BackgroundColor="White" VerticalOptions="FillAndExpand">
+            <ScrollView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" VerticalScrollBarVisibility="Never">
+                <StackLayout Spacing="15" HorizontalOptions="FillAndExpand">
+                    <Grid HorizontalOptions="FillAndExpand">
+                        <StackLayout Orientation="Horizontal" Spacing="5" HorizontalOptions="FillAndExpand">
+                            <Label Text="{Binding Property.editor}" FontSize="15" TextColor="Black" FontFamily="ThemeFontRegular" HorizontalOptions="Start" VerticalOptions="Center"/>
+                        </StackLayout>
+                        <ImageButton BackgroundColor="Transparent" Aspect="Fill" HeightRequest="20" WidthRequest="20" Source="direction.png" VerticalOptions="Center" HorizontalOptions="End"/>
+                    </Grid>
+                    <StackLayout Grid.Row="1" Spacing="15" >
+                        <Label x:Name="Description_news" Text="{Binding Property.description}" FontSize="20" HorizontalOptions="Center" FontFamily="ThemeFontBold" TextColor="#800000"/>
+                    </StackLayout>
+                    <Label Text="Haberin Devamı" FontSize="15" FontFamily="ThemeFontBold" TextColor="#515151"/>
+                    <Label x:Name="Content_News" Text="{Binding Property.content}"  FontSize="15" FontFamily="ThemeFontRegular"  TextColor="#515151"/>
+                </StackLayout>
+            </ScrollView>
+        </pv:PancakeView>
+    </Grid>
+</ContentPage>
